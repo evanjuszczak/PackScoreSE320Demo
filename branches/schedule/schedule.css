@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f4f4; }
+header { background: #203731; color: white; padding: 20px; text-align: center; }
+nav { background: #ffb612; padding: 12px; text-align: center; }
+nav a { margin: 0 15px; text-decoration: none; color: #203731; font-weight: bold; }
+main { max-width: 1000px; margin: 30px auto; padding: 20px; }
+.card { background: white; padding: 20px; margin-bottom: 20px; border-radius: 8px; }
+.game { border-bottom: 1px solid #ddd; padding: 15px; }
+.game:last-child { border-bottom: none; }
+.center { text-align: center; }
